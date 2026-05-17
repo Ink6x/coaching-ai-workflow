@@ -30,17 +30,14 @@
 
 ## ドキュメント構成
 
-### [`docs/case-study.md`](./docs/case-study.md)
+### [`case-study.md`](./case-study.md)
 案件の背景、導入前の運営状況、課題、制約、比較した案、結果、振り返りを整理したケーススタディです。  
 最初に読むファイルとして想定しています。
 
-### [`docs/architecture.md`](./docs/architecture.md)
+### [`architecture.md`](./architecture.md)
 システム構成、責務分割、検索・分析アーキテクチャ、主要ランタイムフロー、主要データフロー、信頼境界、デプロイ構成を整理した技術文書です。
 
-### [`docs/architecture-diagram-guide.md`](./docs/architecture-diagram-guide.md)
-アーキテクチャ図の作成方針、対象図、表現ルールをまとめた指示書です。
-
-### [`docs/dashboard.md`](./docs/dashboard.md)
+### [`dashboard.md`](./dashboard.md)
 管理画面の情報設計と画面責務を整理するための補助ドキュメントです。
 
 ---
@@ -49,7 +46,6 @@
 
 - 背景と結果を知りたい場合は `case-study.md`
 - 技術構成を知りたい場合は `architecture.md`
-- 図の作成方針を確認したい場合は `architecture-diagram-guide.md`
 - UI / 情報設計を見たい場合は `dashboard.md`
 
 ---
